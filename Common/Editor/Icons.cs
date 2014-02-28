@@ -6,7 +6,7 @@ namespace UnityTest
 {
 	public static class Icons
 	{
-		private static string iconsAssetsPath = "Assets/UnityTestTools/Common/Editor/icons/";
+		private static string iconsAssetsPath = "Assets/scripts/UnityTestTools/Common/Editor/icons/";
 
 		public static readonly Texture2D failImg;
 		public static readonly Texture2D ignoreImg;
